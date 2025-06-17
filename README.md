@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Al-Yjian Daniel R. Malayo</h1>
 <h3 align="center">Motivated BSIT Graduate with Full-Stack Development Skills and Hands-On Experience in Modern Web Technologies</h3>
 
-- CWMS [Carwash Management System](https://carwash-booking-six.vercel.app)
+- 📄 Project I Created [Carwash Management System](https://carwash-booking-six.vercel.app) | [Hotel Booking](https://hotel-booking-sigma-two.vercel.app)
 
 - 🌱 I’m currently learning **VueJS, NextJS, React-Native, Spring Boot, AWS, Docker**
-
-- Booking [Hotel Booking](https://hotel-booking-sigma-two.vercel.app)
 
 - Capstone Thesis [Learning Management for Alternative Learning System in Sison, Pangasinan](https://drive.google.com/file/d/1CBMI3mlBTW2HNvW2rwwAsAndESUfI9HH/view?usp=sharing)
 
